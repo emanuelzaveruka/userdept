@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "e0e070ed-9b08-4f3d-9c89-e2d21af6199b",
+		"name": "usersdept",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/users"
+			},
+			"response": []
+		},
+		{
+			"name": "UserById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/users/3"
+			},
+			"response": []
+		},
+		{
+			"name": "NewUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://localhost:8080/users"
+			},
+			"response": []
+		}
+	]
+}
