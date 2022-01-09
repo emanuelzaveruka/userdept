@@ -11,10 +11,15 @@
 - #### Buscar usuário por id
 - #### Inserir novo usuário
 
-#### Para realizar testes pelo Postman importe [este arquivo]() dentro de suas collections
+### Stacks Utilizadas neste projeto
+- #### JAVA 17
+- #### Spring Boot
+#### Para realizar testes pelo Postman 
+- #### Vá até o diretorio postman
+- #### importe dentro de suas collections o arquivo usersdept.postman_collection.json
 
 
 ### Diagrama de entidade relacionamento
-[]()
+![relational entities](https://user-images.githubusercontent.com/85175768/148665125-7ade1bbe-eba1-4ceb-ab00-7bab4209be64.png)
 
 
