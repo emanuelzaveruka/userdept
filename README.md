@@ -1,4 +1,4 @@
-## Userdept 
+# Userdept 
 
 ### Visão Geral
 - #### O projeto foi criado com o intuito de aplicar os conhecimentos do framework SpringBoot
@@ -12,7 +12,7 @@
 - #### Buscar usuário por id
 - #### Inserir novo usuário
 
-### Stacks Utilizadas neste projeto
+### Stacks utilizadas neste projeto
 :black_circle: JAVA 17
 :black_circle: Spring Boot
 
