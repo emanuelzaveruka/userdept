@@ -22,7 +22,7 @@
 
 
 ### Diagrama de entidade relacionamento
-![relational entities](https://user-images.githubusercontent.com/85175768/148665125-7ade1bbe-eba1-4ceb-ab00-7bab4209be64.png)
+![relational entities](https://user-images.githubusercontent.com/85175768/148665850-c49305dd-dc63-4639-bcb3-14d8d66d21ae.png)
 
 ### Meus contatos
 :link: [Likedin](https://www.linkedin.com/in/emanuelzaveruka/)
