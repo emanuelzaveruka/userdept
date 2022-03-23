@@ -54,7 +54,7 @@ No banco de dados já são cadatrados dois departamentos:
 
 "id": 2 = informática
 
-Para inserir mais departamento no banco de dados navegue até src/main/resources/import.sql e no arquivo insira o departamento que deseja, como exemplo:
+Para inserir mais algum departamento no banco de dados navegue até src/main/resources/import.sql e no arquivo insira o departamento que deseja, como exemplo:
 ```
 INSERT INTO tb_department(name) VALUES ('Gestão');
 INSERT INTO tb_department(name) VALUES ('Informática');
