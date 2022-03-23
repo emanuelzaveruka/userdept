@@ -36,19 +36,24 @@ Para usar o USERDEPT, siga estas etapas:
 caso queira configurar manualmente sua requisição no **endpoint**:
 
 Método **GET** user:
+
 Retorna todos os usuários cadastrados no banco de dados.
 ```
 http://localhost:8080/users
 ```
 Método **GET** user by id:
+
 Busca o id passado no parametro e retorna o usuário cadastrado no banco de dados.
 /users/idDoUsuário
 ```
 http://localhost:8080/users/1
 ```
 No banco de dados já são cadatrados dois departamentos:
+
 "id": 1 = gestão
+
 "id": 2 = informática
+
 Para inserir mais departamento no banco de dados navegue até src/main/resources/import.sql e no arquivo insira o departamento que deseja, como exemplo:
 ```
 INSERT INTO tb_department(name) VALUES ('Gestão');
@@ -56,6 +61,7 @@ INSERT INTO tb_department(name) VALUES ('Informática');
 INSERT INTO tb_department(name) VALUES ('Jurídico');
 ```
 Para cadastrar um novo usuário no banco de dados utilize o metódo  **POST**:
+
 corpo da requisição:
 ```
 {
